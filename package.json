@@ -1,0 +1,19 @@
+{
+  "name": "day4webscraping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "puppeteer": "^22.12.1",
+    "slsx": "^0.0.3",
+    "xlsx": "^0.18.5"
+  }
+}
